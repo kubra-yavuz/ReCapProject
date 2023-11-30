@@ -1,0 +1,15 @@
+/Users/kubranuryavuz/Projects/ReCapProjectt/ConsoleUI/bin/Debug/net7.0/ConsoleUI
+/Users/kubranuryavuz/Projects/ReCapProjectt/ConsoleUI/bin/Debug/net7.0/ConsoleUI.deps.json
+/Users/kubranuryavuz/Projects/ReCapProjectt/ConsoleUI/bin/Debug/net7.0/ConsoleUI.runtimeconfig.json
+/Users/kubranuryavuz/Projects/ReCapProjectt/ConsoleUI/bin/Debug/net7.0/ConsoleUI.dll
+/Users/kubranuryavuz/Projects/ReCapProjectt/ConsoleUI/bin/Debug/net7.0/ConsoleUI.pdb
+/Users/kubranuryavuz/Projects/ReCapProjectt/ConsoleUI/obj/Debug/net7.0/ConsoleUI.csproj.AssemblyReference.cache
+/Users/kubranuryavuz/Projects/ReCapProjectt/ConsoleUI/obj/Debug/net7.0/ConsoleUI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kubranuryavuz/Projects/ReCapProjectt/ConsoleUI/obj/Debug/net7.0/ConsoleUI.AssemblyInfoInputs.cache
+/Users/kubranuryavuz/Projects/ReCapProjectt/ConsoleUI/obj/Debug/net7.0/ConsoleUI.AssemblyInfo.cs
+/Users/kubranuryavuz/Projects/ReCapProjectt/ConsoleUI/obj/Debug/net7.0/ConsoleUI.csproj.CoreCompileInputs.cache
+/Users/kubranuryavuz/Projects/ReCapProjectt/ConsoleUI/obj/Debug/net7.0/ConsoleUI.dll
+/Users/kubranuryavuz/Projects/ReCapProjectt/ConsoleUI/obj/Debug/net7.0/refint/ConsoleUI.dll
+/Users/kubranuryavuz/Projects/ReCapProjectt/ConsoleUI/obj/Debug/net7.0/ConsoleUI.pdb
+/Users/kubranuryavuz/Projects/ReCapProjectt/ConsoleUI/obj/Debug/net7.0/ConsoleUI.genruntimeconfig.cache
+/Users/kubranuryavuz/Projects/ReCapProjectt/ConsoleUI/obj/Debug/net7.0/ref/ConsoleUI.dll
