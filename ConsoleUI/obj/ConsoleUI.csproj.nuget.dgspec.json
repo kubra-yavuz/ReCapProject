@@ -4,6 +4,66 @@
     "/Users/kubranuryavuz/Projects/ReCapProjectt/ConsoleUI/ConsoleUI.csproj": {}
   },
   "projects": {
+    "/Users/kubranuryavuz/Projects/ReCapProjectt/Business/Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/kubranuryavuz/Projects/ReCapProjectt/Business/Business.csproj",
+        "projectName": "Business",
+        "projectPath": "/Users/kubranuryavuz/Projects/ReCapProjectt/Business/Business.csproj",
+        "packagesPath": "/Users/kubranuryavuz/.nuget/packages/",
+        "outputPath": "/Users/kubranuryavuz/Projects/ReCapProjectt/Business/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/kubranuryavuz/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/kubranuryavuz/Projects/ReCapProjectt/DataAccess/DataAccess.csproj": {
+                "projectPath": "/Users/kubranuryavuz/Projects/ReCapProjectt/DataAccess/DataAccess.csproj"
+              },
+              "/Users/kubranuryavuz/Projects/ReCapProjectt/Entities/Entities.csproj": {
+                "projectPath": "/Users/kubranuryavuz/Projects/ReCapProjectt/Entities/Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.308/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "/Users/kubranuryavuz/Projects/ReCapProjectt/ConsoleUI/ConsoleUI.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -12,6 +72,126 @@
         "projectPath": "/Users/kubranuryavuz/Projects/ReCapProjectt/ConsoleUI/ConsoleUI.csproj",
         "packagesPath": "/Users/kubranuryavuz/.nuget/packages/",
         "outputPath": "/Users/kubranuryavuz/Projects/ReCapProjectt/ConsoleUI/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/kubranuryavuz/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/kubranuryavuz/Projects/ReCapProjectt/Business/Business.csproj": {
+                "projectPath": "/Users/kubranuryavuz/Projects/ReCapProjectt/Business/Business.csproj"
+              },
+              "/Users/kubranuryavuz/Projects/ReCapProjectt/DataAccess/DataAccess.csproj": {
+                "projectPath": "/Users/kubranuryavuz/Projects/ReCapProjectt/DataAccess/DataAccess.csproj"
+              },
+              "/Users/kubranuryavuz/Projects/ReCapProjectt/Entities/Entities.csproj": {
+                "projectPath": "/Users/kubranuryavuz/Projects/ReCapProjectt/Entities/Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.308/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/kubranuryavuz/Projects/ReCapProjectt/DataAccess/DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/kubranuryavuz/Projects/ReCapProjectt/DataAccess/DataAccess.csproj",
+        "projectName": "DataAccess",
+        "projectPath": "/Users/kubranuryavuz/Projects/ReCapProjectt/DataAccess/DataAccess.csproj",
+        "packagesPath": "/Users/kubranuryavuz/.nuget/packages/",
+        "outputPath": "/Users/kubranuryavuz/Projects/ReCapProjectt/DataAccess/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/kubranuryavuz/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/kubranuryavuz/Projects/ReCapProjectt/Entities/Entities.csproj": {
+                "projectPath": "/Users/kubranuryavuz/Projects/ReCapProjectt/Entities/Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.308/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/kubranuryavuz/Projects/ReCapProjectt/Entities/Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/kubranuryavuz/Projects/ReCapProjectt/Entities/Entities.csproj",
+        "projectName": "Entities",
+        "projectPath": "/Users/kubranuryavuz/Projects/ReCapProjectt/Entities/Entities.csproj",
+        "packagesPath": "/Users/kubranuryavuz/.nuget/packages/",
+        "outputPath": "/Users/kubranuryavuz/Projects/ReCapProjectt/Entities/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/kubranuryavuz/.nuget/NuGet/NuGet.Config"

@@ -1,7 +1,16 @@
-﻿internal class Program
+﻿using Business.Concrete;
+using DataAccess.Concrete.InMemory;
+
+internal class Program
 {
-    private static void Main(string[] args)
+    static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        CarManager carManager = new CarManager(new InMemoryCarDal());
+
+        foreach (var car in carManager.GetAll())
+        {
+            Console.WriteLine(car.ModelYear);
+        }
+        Console.ReadLine();
     }
 }
