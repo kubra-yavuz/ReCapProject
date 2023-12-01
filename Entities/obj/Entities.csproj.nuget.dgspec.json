@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/kubranuryavuz/Projects/ReCapProjectt/Entities/Entities.csproj": {}
+    "/Users/kubranuryavuz/Desktop/ReCapProjectt/Entities/Entities.csproj": {}
   },
   "projects": {
-    "/Users/kubranuryavuz/Projects/ReCapProjectt/Entities/Entities.csproj": {
+    "/Users/kubranuryavuz/Desktop/ReCapProjectt/Entities/Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/kubranuryavuz/Projects/ReCapProjectt/Entities/Entities.csproj",
+        "projectUniqueName": "/Users/kubranuryavuz/Desktop/ReCapProjectt/Entities/Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "/Users/kubranuryavuz/Projects/ReCapProjectt/Entities/Entities.csproj",
+        "projectPath": "/Users/kubranuryavuz/Desktop/ReCapProjectt/Entities/Entities.csproj",
         "packagesPath": "/Users/kubranuryavuz/.nuget/packages/",
-        "outputPath": "/Users/kubranuryavuz/Projects/ReCapProjectt/Entities/obj/",
+        "outputPath": "/Users/kubranuryavuz/Desktop/ReCapProjectt/Entities/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/kubranuryavuz/.nuget/NuGet/NuGet.Config"

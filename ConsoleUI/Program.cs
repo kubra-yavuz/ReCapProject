@@ -9,7 +9,7 @@ internal class Program
 
         foreach (var car in carManager.GetAll())
         {
-            Console.WriteLine(car.ModelYear);
+            Console.WriteLine(car.DailyPrice);
         }
         Console.ReadLine();
     }

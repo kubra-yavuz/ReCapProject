@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/kubranuryavuz/Projects/ReCapProjectt/ConsoleUI/ConsoleUI.csproj": {}
+    "/Users/kubranuryavuz/Desktop/ReCapProjectt/ConsoleUI/ConsoleUI.csproj": {}
   },
   "projects": {
-    "/Users/kubranuryavuz/Projects/ReCapProjectt/Business/Business.csproj": {
+    "/Users/kubranuryavuz/Desktop/ReCapProjectt/Business/Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/kubranuryavuz/Projects/ReCapProjectt/Business/Business.csproj",
+        "projectUniqueName": "/Users/kubranuryavuz/Desktop/ReCapProjectt/Business/Business.csproj",
         "projectName": "Business",
-        "projectPath": "/Users/kubranuryavuz/Projects/ReCapProjectt/Business/Business.csproj",
+        "projectPath": "/Users/kubranuryavuz/Desktop/ReCapProjectt/Business/Business.csproj",
         "packagesPath": "/Users/kubranuryavuz/.nuget/packages/",
-        "outputPath": "/Users/kubranuryavuz/Projects/ReCapProjectt/Business/obj/",
+        "outputPath": "/Users/kubranuryavuz/Desktop/ReCapProjectt/Business/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/kubranuryavuz/.nuget/NuGet/NuGet.Config"
@@ -26,11 +26,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/Users/kubranuryavuz/Projects/ReCapProjectt/DataAccess/DataAccess.csproj": {
-                "projectPath": "/Users/kubranuryavuz/Projects/ReCapProjectt/DataAccess/DataAccess.csproj"
+              "/Users/kubranuryavuz/Desktop/ReCapProjectt/DataAccess/DataAccess.csproj": {
+                "projectPath": "/Users/kubranuryavuz/Desktop/ReCapProjectt/DataAccess/DataAccess.csproj"
               },
-              "/Users/kubranuryavuz/Projects/ReCapProjectt/Entities/Entities.csproj": {
-                "projectPath": "/Users/kubranuryavuz/Projects/ReCapProjectt/Entities/Entities.csproj"
+              "/Users/kubranuryavuz/Desktop/ReCapProjectt/Entities/Entities.csproj": {
+                "projectPath": "/Users/kubranuryavuz/Desktop/ReCapProjectt/Entities/Entities.csproj"
               }
             }
           }
@@ -64,14 +64,14 @@
         }
       }
     },
-    "/Users/kubranuryavuz/Projects/ReCapProjectt/ConsoleUI/ConsoleUI.csproj": {
+    "/Users/kubranuryavuz/Desktop/ReCapProjectt/ConsoleUI/ConsoleUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/kubranuryavuz/Projects/ReCapProjectt/ConsoleUI/ConsoleUI.csproj",
+        "projectUniqueName": "/Users/kubranuryavuz/Desktop/ReCapProjectt/ConsoleUI/ConsoleUI.csproj",
         "projectName": "ConsoleUI",
-        "projectPath": "/Users/kubranuryavuz/Projects/ReCapProjectt/ConsoleUI/ConsoleUI.csproj",
+        "projectPath": "/Users/kubranuryavuz/Desktop/ReCapProjectt/ConsoleUI/ConsoleUI.csproj",
         "packagesPath": "/Users/kubranuryavuz/.nuget/packages/",
-        "outputPath": "/Users/kubranuryavuz/Projects/ReCapProjectt/ConsoleUI/obj/",
+        "outputPath": "/Users/kubranuryavuz/Desktop/ReCapProjectt/ConsoleUI/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/kubranuryavuz/.nuget/NuGet/NuGet.Config"
@@ -86,14 +86,14 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/Users/kubranuryavuz/Projects/ReCapProjectt/Business/Business.csproj": {
-                "projectPath": "/Users/kubranuryavuz/Projects/ReCapProjectt/Business/Business.csproj"
+              "/Users/kubranuryavuz/Desktop/ReCapProjectt/Business/Business.csproj": {
+                "projectPath": "/Users/kubranuryavuz/Desktop/ReCapProjectt/Business/Business.csproj"
               },
-              "/Users/kubranuryavuz/Projects/ReCapProjectt/DataAccess/DataAccess.csproj": {
-                "projectPath": "/Users/kubranuryavuz/Projects/ReCapProjectt/DataAccess/DataAccess.csproj"
+              "/Users/kubranuryavuz/Desktop/ReCapProjectt/DataAccess/DataAccess.csproj": {
+                "projectPath": "/Users/kubranuryavuz/Desktop/ReCapProjectt/DataAccess/DataAccess.csproj"
               },
-              "/Users/kubranuryavuz/Projects/ReCapProjectt/Entities/Entities.csproj": {
-                "projectPath": "/Users/kubranuryavuz/Projects/ReCapProjectt/Entities/Entities.csproj"
+              "/Users/kubranuryavuz/Desktop/ReCapProjectt/Entities/Entities.csproj": {
+                "projectPath": "/Users/kubranuryavuz/Desktop/ReCapProjectt/Entities/Entities.csproj"
               }
             }
           }
@@ -127,14 +127,14 @@
         }
       }
     },
-    "/Users/kubranuryavuz/Projects/ReCapProjectt/DataAccess/DataAccess.csproj": {
+    "/Users/kubranuryavuz/Desktop/ReCapProjectt/DataAccess/DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/kubranuryavuz/Projects/ReCapProjectt/DataAccess/DataAccess.csproj",
+        "projectUniqueName": "/Users/kubranuryavuz/Desktop/ReCapProjectt/DataAccess/DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "/Users/kubranuryavuz/Projects/ReCapProjectt/DataAccess/DataAccess.csproj",
+        "projectPath": "/Users/kubranuryavuz/Desktop/ReCapProjectt/DataAccess/DataAccess.csproj",
         "packagesPath": "/Users/kubranuryavuz/.nuget/packages/",
-        "outputPath": "/Users/kubranuryavuz/Projects/ReCapProjectt/DataAccess/obj/",
+        "outputPath": "/Users/kubranuryavuz/Desktop/ReCapProjectt/DataAccess/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/kubranuryavuz/.nuget/NuGet/NuGet.Config"
@@ -149,8 +149,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/Users/kubranuryavuz/Projects/ReCapProjectt/Entities/Entities.csproj": {
-                "projectPath": "/Users/kubranuryavuz/Projects/ReCapProjectt/Entities/Entities.csproj"
+              "/Users/kubranuryavuz/Desktop/ReCapProjectt/Entities/Entities.csproj": {
+                "projectPath": "/Users/kubranuryavuz/Desktop/ReCapProjectt/Entities/Entities.csproj"
               }
             }
           }
@@ -184,14 +184,14 @@
         }
       }
     },
-    "/Users/kubranuryavuz/Projects/ReCapProjectt/Entities/Entities.csproj": {
+    "/Users/kubranuryavuz/Desktop/ReCapProjectt/Entities/Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/kubranuryavuz/Projects/ReCapProjectt/Entities/Entities.csproj",
+        "projectUniqueName": "/Users/kubranuryavuz/Desktop/ReCapProjectt/Entities/Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "/Users/kubranuryavuz/Projects/ReCapProjectt/Entities/Entities.csproj",
+        "projectPath": "/Users/kubranuryavuz/Desktop/ReCapProjectt/Entities/Entities.csproj",
         "packagesPath": "/Users/kubranuryavuz/.nuget/packages/",
-        "outputPath": "/Users/kubranuryavuz/Projects/ReCapProjectt/Entities/obj/",
+        "outputPath": "/Users/kubranuryavuz/Desktop/ReCapProjectt/Entities/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/kubranuryavuz/.nuget/NuGet/NuGet.Config"
