@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/kubranuryavuz/Desktop/ReCapProjectt/Entities/Entities.csproj",
+      "projectUniqueName": "/Users/kubranuryavuz/Desktop/Projects/ReCapProjectt/Entities/Entities.csproj",
       "projectName": "Entities",
-      "projectPath": "/Users/kubranuryavuz/Desktop/ReCapProjectt/Entities/Entities.csproj",
+      "projectPath": "/Users/kubranuryavuz/Desktop/Projects/ReCapProjectt/Entities/Entities.csproj",
       "packagesPath": "/Users/kubranuryavuz/.nuget/packages/",
-      "outputPath": "/Users/kubranuryavuz/Desktop/ReCapProjectt/Entities/obj/",
+      "outputPath": "/Users/kubranuryavuz/Desktop/Projects/ReCapProjectt/Entities/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/kubranuryavuz/.nuget/NuGet/NuGet.Config"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.308/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.311/RuntimeIdentifierGraph.json"
       }
     }
   }

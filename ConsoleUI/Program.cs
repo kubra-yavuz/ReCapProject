@@ -1,11 +1,12 @@
 ﻿using Business.Concrete;
+using DataAccess.Concrete.EntityFramework;
 using DataAccess.Concrete.InMemory;
 
 internal class Program
 {
     static void Main(string[] args)
     {
-        CarManager carManager = new CarManager(new InMemoryCarDal());
+        CarManager carManager = new CarManager(new EfCarDal());
 
         foreach (var car in carManager.GetAll())
         {

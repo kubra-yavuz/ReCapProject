@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/kubranuryavuz/Desktop/ReCapProjectt/DataAccess/DataAccess.csproj": {}
+    "/Users/kubranuryavuz/Desktop/Projects/ReCapProjectt/DataAccess/DataAccess.csproj": {}
   },
   "projects": {
-    "/Users/kubranuryavuz/Desktop/ReCapProjectt/DataAccess/DataAccess.csproj": {
+    "/Users/kubranuryavuz/Desktop/Projects/ReCapProjectt/DataAccess/DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/kubranuryavuz/Desktop/ReCapProjectt/DataAccess/DataAccess.csproj",
+        "projectUniqueName": "/Users/kubranuryavuz/Desktop/Projects/ReCapProjectt/DataAccess/DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "/Users/kubranuryavuz/Desktop/ReCapProjectt/DataAccess/DataAccess.csproj",
+        "projectPath": "/Users/kubranuryavuz/Desktop/Projects/ReCapProjectt/DataAccess/DataAccess.csproj",
         "packagesPath": "/Users/kubranuryavuz/.nuget/packages/",
-        "outputPath": "/Users/kubranuryavuz/Desktop/ReCapProjectt/DataAccess/obj/",
+        "outputPath": "/Users/kubranuryavuz/Desktop/Projects/ReCapProjectt/DataAccess/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/kubranuryavuz/.nuget/NuGet/NuGet.Config"
@@ -26,8 +26,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/Users/kubranuryavuz/Desktop/ReCapProjectt/Entities/Entities.csproj": {
-                "projectPath": "/Users/kubranuryavuz/Desktop/ReCapProjectt/Entities/Entities.csproj"
+              "/Users/kubranuryavuz/Desktop/Projects/ReCapProjectt/Entities/Entities.csproj": {
+                "projectPath": "/Users/kubranuryavuz/Desktop/Projects/ReCapProjectt/Entities/Entities.csproj"
               }
             }
           }
@@ -41,6 +41,16 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.14, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -57,18 +67,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.308/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.311/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/kubranuryavuz/Desktop/ReCapProjectt/Entities/Entities.csproj": {
+    "/Users/kubranuryavuz/Desktop/Projects/ReCapProjectt/Entities/Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/kubranuryavuz/Desktop/ReCapProjectt/Entities/Entities.csproj",
+        "projectUniqueName": "/Users/kubranuryavuz/Desktop/Projects/ReCapProjectt/Entities/Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "/Users/kubranuryavuz/Desktop/ReCapProjectt/Entities/Entities.csproj",
+        "projectPath": "/Users/kubranuryavuz/Desktop/Projects/ReCapProjectt/Entities/Entities.csproj",
         "packagesPath": "/Users/kubranuryavuz/.nuget/packages/",
-        "outputPath": "/Users/kubranuryavuz/Desktop/ReCapProjectt/Entities/obj/",
+        "outputPath": "/Users/kubranuryavuz/Desktop/Projects/ReCapProjectt/Entities/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/kubranuryavuz/.nuget/NuGet/NuGet.Config"
@@ -110,7 +120,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.308/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.311/RuntimeIdentifierGraph.json"
         }
       }
     }
